@@ -1,0 +1,7 @@
+qibo==0.2.8
+tensorflow==2.16.1
+
+
+# Ensure Jupyter notebook
+notebook~=6.0
+jupyterlab~=4.0
