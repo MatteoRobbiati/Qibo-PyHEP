@@ -1,5 +1,0 @@
-\babel@toc {english}{}
-\beamer@sectionintoc {1}{Quantum Computing}{2}{0}{1}
-\beamer@sectionintoc {2}{\texttt {Qibo 0.2.8}}{15}{0}{2}
-\beamer@sectionintoc {3}{Machine Learning}{19}{0}{3}
-\beamer@sectionintoc {4}{Quantum Machine Learning}{23}{0}{4}
